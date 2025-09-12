@@ -1,0 +1,32 @@
+p {
+	color: #FF8C00;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+h2 {
+	font-size: 2.2em;
+	background-color: #CC9900;
+	padding: 20px 10px 20px 10px;
+	margin: 0 0 0 0px;
+	color: #800000;
+}
+body {
+	padding: 0 25px;
+	background-image: url(./images/fon.jpg);
+}
+.red1 {
+	color: red;
+}
+#blue1 {
+	color: blue;
+	font-size: 1.2em;
+}
+h1 {
+	font-family: "Rubik Mono One", monospace;
+	font-weight: 1000;
+	background-image: url(./images/moy.svg);
+	padding: 6px 0;
+	font-size: 8em;
+	font-style: Noto Sans;
+	color: #FF9900;
+}
